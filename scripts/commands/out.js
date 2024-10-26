@@ -7,7 +7,7 @@ module.exports = {
   permission: 7,
   description: "out bot",
   category: "admin",
-  cooldowns: 5
+  cooldowns: 7
 },
 
 start: async function({ nayan, events, args }) {
